@@ -4,8 +4,8 @@ A powerful, open-source Voice AI Agent capable of making and receiving phone cal
 
 ## 📺 Live Demo
 
-Coming soon! I will be posting a full video demonstration of this agent in action on LinkedIn.
-Stay tuned here: **[Watch the Demo on LinkedIn](https://www.linkedin.com/in/satyamdevv)** _(Link will be updated once the post is live!)_
+I will be posting a full video demonstration of this agent in action on LinkedIn.
+Stay tuned here: **[Watch the Demo on LinkedIn](https://www.linkedin.com/posts/satyamdevv_ai-artificialintelligence-raspberrypi-ugcPost-7431342925487419392-260v?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtCRvsBZj1_wvrH8S1eCrPT2V3vSjGmdHA)** _(Link will be updated once the post is live!)_
 
 ## 💡 Project Motivation
 
