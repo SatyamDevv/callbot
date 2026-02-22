@@ -1,4 +1,4 @@
-# 📞 AI Voice Caller Agent (Raspberry Pi + SIM7600)
+<img width="7631" height="489" alt="image" src="https://github.com/user-attachments/assets/22de3824-c733-4f8b-9fb0-77b2058b9f77" /># 📞 AI Voice Caller Agent (Raspberry Pi + SIM7600)
 
 A powerful, open-source Voice AI Agent capable of making and receiving phone calls, conversing naturally in Hinglish (Hindi + English), and booking meetings automatically. Powered by **Google Gemini Live API** and running on a **Raspberry Pi 4B** with a **SIM7600G-H 4G GSM Module**.
 
@@ -47,7 +47,7 @@ You can upgrade the AI from a simple voice bot to a fully autonomous AI employee
 
 ## 🏗️ System Workflow
 
-![System Workflow Diagram](images/workflow.png)
+![System Workflow Diagram](https://github.com/SatyamDevv/callbot/blob/main/Images/workflow.png)
 
 ## 🛠️ Hardware Requirements
 
